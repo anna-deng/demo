@@ -9,6 +9,15 @@ body {
   font-weight: 900;
 }
 
+.div1 {
+  text-align: center;
+}
+
+.div2 {
+  display: inline-block;
+
+}
+
 .text:hover {
   color: green;
 }
